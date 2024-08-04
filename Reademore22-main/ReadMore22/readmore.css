@@ -1,0 +1,14 @@
+#mainDiv{ 
+    width: 30%;
+    margin: auto;
+}
+
+#littleDiv{
+   
+
+}
+#text{
+    overflow: hidden;
+    max-height: 130px;
+}
+
